@@ -1,0 +1,20 @@
+{
+  "mod_name": "Neon Ruby Pickaxe",
+  "stats": {
+    "name": "Neon Ruby Pickaxe",
+    "damage": 10,
+    "price": 2500
+  },
+  "material": {
+    "color": "#FF0000",
+    "roughness": 0.5,
+    "transparency": {
+      "enabled": true,
+      "alpha": 0.8
+    },
+    "emission": {
+      "enabled": true,
+      "intensity": 5.0
+    }
+  }
+}
